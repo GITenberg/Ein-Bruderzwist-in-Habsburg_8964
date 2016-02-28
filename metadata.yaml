@@ -1,0 +1,25 @@
+_repo: Ein-Bruderzwist-in-Habsburg_8964
+creator:
+  author:
+    agent_name: Grillparzer, Franz
+    birthdate: 1791
+    deathdate: 1872
+    gutenberg_agent_id: '2585'
+    url: http://www.gutenberg.org/2009/agents/2585
+    wikipedia: http://en.wikipedia.org/wiki/Franz_Grillparzer
+description: ''
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8964'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Holy Roman Empire -- History -- Matthias, 1612-1619 -- Drama'
+- !lcsh 'Holy Roman Empire -- History -- Rudolf II, 1576-1612 -- Drama'
+- !lcc 'PT'
+title: Ein Bruderzwist in Habsburg
+url: http://www.gutenberg.org/ebooks/8964
